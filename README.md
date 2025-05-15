@@ -1,4 +1,1 @@
-download from terminal (linux)
-```bash
-wget https://raw.githubusercontent.com/xarco08/pythoneasycounting/refs/heads/main/cronometro.py
-```
+cronometro.py uses "while" and cronometgrofor.py uses "for" and has more variables
