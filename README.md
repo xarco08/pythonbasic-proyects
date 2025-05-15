@@ -1,1 +1,1 @@
-cronometro.py uses "while" and cronometgrofor.py uses "for" and has more variables
+Some easy python scripts I learnt and you could try to replicate<br>includes<ul><li>stopwatch(cronometro.py, cronometrofor.py)</li><li>menu(menuvictor.py)</li><li>ecuationsolver(type ax<sup>2</sup>+bx+c=0 ecuacion.py)</li></ul> 
