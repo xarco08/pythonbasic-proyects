@@ -1,1 +1,1 @@
-Some easy python scripts I learnt and you could try to replicate<br>includes<ul><li>stopwatch(cronometro.py, cronometrofor.py)</li><li>menu(menuvictor.py)</li><li>ecuationsolver(type ax<sup>2</sup>+bx+c=0 ecuacion.py)</li></ul> 
+Some easy python scripts I learnt and you could try to replicate<br>includes<ul><li>stopwatch(cronometro.py, cronometrofor.py)</li><li>menu(menuvictor.py)</li><li>ecuationsolver(type ax<sup>2</sup>+bx+c=0 ecuacion.py)</li><li>colored text (pruebacolor.py)</li></ul> 
